@@ -1,0 +1,33 @@
+.card-1 {
+    width: fit-content;
+    box-shadow: 2px 2px 5px darkgrey;
+    padding: 5px;
+    display: inline-flex;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.card-detail {
+    background-color: white;
+    padding: 20px;
+}
+
+#img-1{
+    margin-right: 40px;
+}
+
+.card-detail p {
+    text-align: center;
+    margin: 5px;
+    font-size: 14px;
+}
+
+.card-detail h3 {
+    text-align: center;
+}
+#parameter{
+    font-size: 20px;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 335px;
+}   

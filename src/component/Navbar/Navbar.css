@@ -1,0 +1,54 @@
+.navbar {
+    background-color: #1f1f1f;
+}
+
+.navbar ul li {
+    padding: 15px;
+}
+
+.navbar ul li a {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding: 10px 10px;
+}
+
+.navbar ul li a:hover {
+    background-color: white;
+    color: black;
+}
+
+#waktu {
+    color: white;
+    margin: 15px;
+}
+
+#lokasi {
+    color: white;
+    margin: 15px;
+    padding-bottom: 15px;
+}
+
+@media only screen and (min-width: 768px) {
+    .navbar ul li {
+        display: inline-flex;
+    }
+
+    .navbar ul li a {
+        padding: 5px 10px;
+        text-decoration: none;
+    }
+
+    #waktu {
+        float: right;
+        color: white;
+        margin: 1.5rem;
+    }
+
+    #lokasi {
+        float: right;
+        color: white;
+        margin: 1.5rem;
+    }
+
+}

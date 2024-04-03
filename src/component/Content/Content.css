@@ -1,0 +1,74 @@
+.content {
+    margin-top: 10rem;
+    background-color: aliceblue;
+    padding: 3rem;
+}
+
+.card-content {
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.card-content p {
+    padding: 10px;
+    color: #6b6969;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.garis {
+    width: auto;
+    margin-top: 10px;
+}
+
+#clock,
+#clock-1 {
+    float: right;
+}
+
+.card-left h1 {
+    padding: 2rem;
+    font-size: 5rem;
+}
+
+.card-left p {
+    color: black;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.card-left h2 {
+    padding: 10px;
+    font-weight: normal;
+}
+.card-left a {
+    color: black;
+    padding: 15px;
+}
+
+.card-rigth {
+    float: right;
+    padding:2rem;
+}
+
+.card-rigth h3 {
+    margin-right: 20rem;
+    margin-top: 10px;
+}
+
+.card-rigth span {
+    float: right;
+    margin-top: 10px;
+}
+.card-map img {
+    display: flex;
+    width: 95%;
+}
+#angin {
+text-align: left;
+}
+#angin img {
+    border-radius: 30px;
+}

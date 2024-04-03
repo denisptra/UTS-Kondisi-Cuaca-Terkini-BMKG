@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.footer {
+    background-color: #1f1f1f;
+    color:rgb(213, 213, 213);
+    font-size: 10px;
+    margin-top: 10rem;
+}
+.footer p{
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.footer h3 {
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    padding-bottom: 15px;
+}
